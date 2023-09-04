@@ -24,12 +24,11 @@ body {
 
 #container {
   margin-top: 10vh;
-  font: 18px/1.5 tahoma,arial,'Hiragino Sans GB','\5b8b\4f53',sans-serif;
-  letter-spacing: 2px;
+  font: 18px/1.5 serif, "Times", 'Hiragino Sans GB';
   color: #bfbfbf;
   font-size: 18px;
   writing-mode: vertical-rl;
-  width: 400px;
+  max-width: 400px;
   padding: 16px;
   overflow-x: clip;
   overflow-y: clip;
